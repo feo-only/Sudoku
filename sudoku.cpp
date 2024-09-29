@@ -185,9 +185,9 @@ class Sudoku : public Grid {
 
 		        is_solved = true;
 	   		}
-	   		else{
-	   			showGrid();
-			}
+		else{
+			showGrid();
+		}
 	    }
 };
 
